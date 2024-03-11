@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.9e858135.css",
+    "main.js": "/test/static/js/main.6f1fb96e.js",
+    "static/media/hybridwork.png": "/test/static/media/hybridwork.fedc7ba7ed8a50fcaabb.png",
+    "static/media/section.png": "/test/static/media/section.ff892240a273376f0942.png",
+    "static/media/integrations.png": "/test/static/media/integrations.22222c9fe78f3db7baf5.png",
+    "static/media/hero.png": "/test/static/media/hero.b3f7139a68fd3118eaf8.png",
+    "static/media/divThree.png": "/test/static/media/divThree.b95668faee0c4852086d.png",
+    "static/media/divtwo.png": "/test/static/media/divtwo.1a1dac1f853dcb4837b7.png",
+    "static/media/form.png": "/test/static/media/form.042edc9392e5ac4e22e0.png",
+    "static/media/Group.png": "/test/static/media/Group.10e3ec36b306bfc733af.png",
+    "index.html": "/test/index.html",
+    "main.9e858135.css.map": "/test/static/css/main.9e858135.css.map",
+    "main.6f1fb96e.js.map": "/test/static/js/main.6f1fb96e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e858135.css",
+    "static/js/main.6f1fb96e.js"
+  ]
+}
